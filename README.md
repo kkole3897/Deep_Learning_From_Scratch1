@@ -1,6 +1,7 @@
-# Deep_Learning_From_Scratch1
-
+# 밑바닥부터 시작하는 딥러닝1 스터디
+## Deep_Learning_From_Scratch1
 > CUAI 밑바닥부터 시작하는 딥러닝1 각자 정리 및 코드 실습
+> 
 > 장소 : 310관
 >
 > 시간 : 매주 토요일 10:00 - 15:00
