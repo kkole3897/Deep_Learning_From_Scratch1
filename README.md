@@ -29,7 +29,7 @@
 |      | CHAPTER 명                | 담당자    | free_throw       |
 | ---- | ------------------------- | --------- | ---------------- |
 | 1    | 신경망 복습               | 김진관 |                  |
-| 2    | 자연어와 단어의 분산 표현 | 정아      | 김진관 |
+| 2    | 자연어와 단어의 분산 표현     | 김진관 |
 | 3    | word2vec                  | 김진관      |                  |
 | 4    | word2vec 속도 개선        | 강호현      |                  |
 | 5    | 순환 신경망(RNN)          | 강호현      |                  |
@@ -57,7 +57,7 @@
 | 이름 | 현황                                                         |
 | ---- | ------------------------------------------------------------ |
 | 진관 | |                  |
-| 호현 | [강호현 chap 01](https://nbviewer.jupyter.org/github/kkole3897/Deep_Learning_From_Scratch1/blob/master/강호현/chap1.ipynb)|
+| 호현 | [강호현 chap 01](https://nbviewer.jupyter.org/github/kkole3897/Deep_Learning_From_Scratch1/blob/master/강호현/chap1.ipynb)[강호현 chap 02](https://nbviewer.jupyter.org/github/kkole3897/Deep_Learning_From_Scratch1/blob/master/강호현/Chapter2.ipynb)|
 | 채정 | 밑시딥2 도서 1회독                                           |
 | 지호 | 알아두고 써먹기! GDG Pangyo 챗봇 구현&kakao arena            |
 | 영헌 | 논문을 볼 때 기초를 다지기 위한 공부                         |
