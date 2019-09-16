@@ -57,7 +57,7 @@
 | 이름 | 현황                                                         |
 | ---- | ------------------------------------------------------------ |
 | 진관 | |                  |
-| 호현 | [chap 01](https://nbviewer.jupyter.org/github/kkole3897/Deep_Learning_From_Scratch1/blob/master/강호현/chap1.ipynb) [chap 02](https://nbviewer.jupyter.org/github/kkole3897/Deep_Learning_From_Scratch1/blob/master/강호현/Chapter2.ipynb) [chap03](https://nbviewer.jupyter.org/github/kkole3897/Deep_Learning_From_Scratch1/blob/master/강호현/Chapter3.ipynb)|
+| 호현 | [chap 01](https://nbviewer.jupyter.org/github/kkole3897/Deep_Learning_From_Scratch1/blob/master/강호현/chap1.ipynb) [chap 02](https://nbviewer.jupyter.org/github/kkole3897/Deep_Learning_From_Scratch1/blob/master/강호현/Chapter2.ipynb) [chap 03](https://nbviewer.jupyter.org/github/kkole3897/Deep_Learning_From_Scratch1/blob/master/강호현/Chapter3.ipynb) [chap 04](https://nbviewer.jupyter.org/github/kkole3897/Deep_Learning_From_Scratch1/blob/master/강호현/Chapter4.ipynb)|
 | 채정 | 밑시딥2 도서 1회독                                           |
 | 지호 | 알아두고 써먹기! GDG Pangyo 챗봇 구현&kakao arena            |
 | 영헌 | 논문을 볼 때 기초를 다지기 위한 공부                         |
