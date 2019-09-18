@@ -28,14 +28,14 @@
 
 |      | CHAPTER 명                | 담당자    | free_throw       |
 | ---- | ------------------------- | --------- | ---------------- |
-| 1    | 신경망 복습               | 김진관 |                  |
-| 2    | 자연어와 단어의 분산 표현     | 김진관 |
-| 3    | word2vec                  | 김진관      |                  |
-| 4    | word2vec 속도 개선        | 강호현      |                  |
-| 5    | 순환 신경망(RNN)          | 강호현      |                  |
-| 6    | 게이트가 추가된 RNN       | 강호현      |                  |
-| 7    | RNN을 사용한 문장 생성    | 팀원 전체      |                  |
-| 8    | 어텐션                    | 팀원 전체      |                  |
+| 1    |헬로 파이썬              | 김진관 |                  |
+| 2    | 퍼셉트론  | 김진관 |
+| 3    | 신경망                 | 김진관      |                  |
+| 4    | 신경망학습       | 강호현      |                  |
+| 5    | 오차역전파법         | 강호현      |                  |
+| 6    | 학습 관련 기술들      | 강호현      |                  |
+| 7    | 합성곱 신경망(CNN)    | 팀원 전체      |                  |
+| 8    | 딥러닝                  | 팀원 전체      |                  |
 
 
 
@@ -45,12 +45,12 @@
 
 | 이름 | 목표                                                         |
 | ---- | ------------------------------------------------------------ |
-| 진관 | 개인 논문에 RNN Feature 추가를 위한 공부                     |
-| 호현 | RNN 기초 공부 및 직접 챗봇 구현해보기 (대영님 대신 대답해주는 챗봇) |
-| 채정 | 밑시딥2 도서 1회독                                           |
-| 지호 | 알아두고 써먹기! GDG Pangyo 챗봇 구현&kakao arena            |
-| 영헌 | 논문을 볼 때 기초를 다지기 위한 공부                         |
-| 현동 | Federated Learning 연구를 위한 RNN 기초 공부                 |
+| 진관 |                  |
+| 호현 | 밑시딥1 도서 1회독                                              |
+| 채정 |                                         |
+| 지호 |            |
+| 영헌 |                         |
+| 현동 |                 |
 
 ## 복습 현황
 
@@ -58,8 +58,8 @@
 | ---- | ------------------------------------------------------------ |
 | 진관 | |                  |
 | 호현 | [chap 01](https://nbviewer.jupyter.org/github/kkole3897/Deep_Learning_From_Scratch1/blob/master/강호현/chap1.ipynb) [chap 02](https://nbviewer.jupyter.org/github/kkole3897/Deep_Learning_From_Scratch1/blob/master/강호현/Chapter2.ipynb) [chap 03](https://nbviewer.jupyter.org/github/kkole3897/Deep_Learning_From_Scratch1/blob/master/강호현/Chapter3.ipynb) [chap 04](https://nbviewer.jupyter.org/github/kkole3897/Deep_Learning_From_Scratch1/blob/master/강호현/Chapter4.ipynb) [chap 05](https://nbviewer.jupyter.org/github/kkole3897/Deep_Learning_From_Scratch1/blob/master/강호현/Chapter5.ipynb) [chap 06](https://nbviewer.jupyter.org/github/kkole3897/Deep_Learning_From_Scratch1/blob/master/강호현/Chapter6.ipynb)|
-| 채정 | 밑시딥2 도서 1회독                                           |
-| 지호 | 알아두고 써먹기! GDG Pangyo 챗봇 구현&kakao arena            |
-| 영헌 | 논문을 볼 때 기초를 다지기 위한 공부                         |
-| 현동 | Federated Learning 연구를 위한 RNN 기초 공부                 |
+| 채정 |                                          |
+| 지호 |            |
+| 영헌 |                       |
+| 현동 |                |
 
